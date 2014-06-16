@@ -1,0 +1,10 @@
+# Site settings
+title: Technology Evangelist
+email: vinay.pandella@gmail.com / vpandella@nisum.com
+description: "Working as a Team Lead at Nisum Technologies, am passionate about technology and impact of technology on human life."
+baseurl: ""
+url: "http://yourdomain.com"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
