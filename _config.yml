@@ -4,7 +4,18 @@ email: vinay.pandella@gmail.com / vpandella@nisum.com
 description: "Working as a Team Lead at Nisum Technologies, am passionate about technology and impact of technology on human life."
 baseurl: ""
 url: "http://yourdomain.com"
+comments: true
 
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+
+# Settings for comments helper
+# Set 'provider' to the comment provider you want to use.
+# Set 'provider' to false to turn commenting off globally.
+#
+comments :
+  provider : disqus
+  disqus :
+    short_name : leandevelopment
