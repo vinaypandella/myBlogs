@@ -1,11 +1,14 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+<b> about myself in the third person </b>
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+Vinay Pandella joined Nisum Technologies in 2006 as campus recruiter. Initially working as a software associate for the portal application, he now works as Team/Technical Lead at different client locations.
+He is more passionate about technology, likes to talk about technology, products and growing startups.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+He is a good problem solver with the ability of getting things to work. He also started writing recently.
+
+
